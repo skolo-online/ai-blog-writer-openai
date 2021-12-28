@@ -7,7 +7,24 @@ In this video, I'll show you how to create a simple tool for writing blog posts 
 [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA)
 
 # Get Started with this repo
+Copy this repo and move to the root of the directory.
+Create your OpenAI API key and add it to the config.py file
+
+```sh
+nano config.py
 
 ```
-pip install requirements.txt
+Save the Open AI API key inside the file.
+
+
+Install the required libraries inside the requirements txt file
+
+``` sh
+pip install -r requirements.txt
+```
+
+Run the program
+
+```sh
+python app.py
 ```

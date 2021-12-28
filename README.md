@@ -1,4 +1,4 @@
-# ai-blog-writer-openai
+# AI Blog Writer with OpenAI GPT-3
 Create an AI blog writing tool with Open AI API. 
 
 
